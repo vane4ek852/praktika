@@ -38,12 +38,12 @@ INSERT INTO [dbo].[Products]
            ([id]
            ,[name])
      VALUES
-           (1, 'брюки'),
-		   (2, 'шорты'),
-		   (3, 'футболка'),
-		   (4, 'ремень'),
-		   (5, 'носки'),
-		   (6, 'юбка')
+			(1, 'pants'),
+			(2, 'shorts'),
+			(3, 't-shirt'),
+			(4, 'belt'),
+			(5, 'socks'),
+			(6, 'skirt')
 GO
 
 INSERT INTO [dbo].[links]
